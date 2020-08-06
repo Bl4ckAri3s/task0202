@@ -118,5 +118,8 @@ int main() {
     } while (running);
 
 
+    for (auto& elt : grades)
+        delete elt;
+
     return 0;
 }

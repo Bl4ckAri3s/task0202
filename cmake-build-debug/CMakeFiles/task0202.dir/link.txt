@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/task0202.dir/main.cpp.o CMakeFiles/task0202.dir/PersonGrade.cpp.o  -o task0202 

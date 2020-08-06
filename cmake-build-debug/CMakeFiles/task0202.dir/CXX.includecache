@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/CLionProjects/task0202/PersonGrade.h
+iostream
+-
+
+/home/alex/CLionProjects/task0202/main.cpp
+iostream
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+random
+-
+PersonGrade.h
+/home/alex/CLionProjects/task0202/PersonGrade.h
+
